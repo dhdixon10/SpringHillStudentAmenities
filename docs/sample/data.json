@@ -56,7 +56,7 @@
                     "type": "Dining",
                     "name": "Dining Room",
                     "images": ["https://github.com/zaedmi92/SpringHillStudentAmenities/raw/main/docs/sample/images/Dining_Room_Inside.jpg"],
-                    "description": "The perfect place for students to catch lunch with their friends in between classes. It is located inside the student center. They offer a many that changes daily and includes vegan options.",
+                    "description": "The perfect place for students to catch lunch with their friends in between classes. It is located inside the student center. They offer a many that changes daily and includes vegan options. The Barter Student Center acts as the Body anchor of Rydex Commons.",
                     "more": "Weekdays Breakfast 7:30AM to 10:30AM, Weekdays Lunch: 10:30AM to 3:00PM, Weekend Brunch: 10:30AM to 3:00PM, Weekend Lunch: 12:00PM to 3:00PM, Dinner: 3:00PM to 7:30PM",
                     "urls": [
                         "https://shc.campusdish.com/en/locationsandmenus/studentdiningroom/"
@@ -97,7 +97,7 @@
                     "type": "Informative",
                     "name": "Library",
                     "images": ["https://github.com/zaedmi92/SpringHillStudentAmenities/raw/main/docs/sample/images/BurkeLibrary.jpg"],
-                    "description": "The Marnie and John Burke Memorial Library at Spring Hill College opened in 2004 thanks to a donation from John Burke and his Brother Kevin. The Campus libary houses 500,000 books, journals, videos, microforms and other materials. ",
+                    "description": "The Marnie and John Burke Memorial Library at Spring Hill College opened in 2004 thanks to a donation from John Burke and his Brother Kevin. The Campus libary houses 500,000 books, journals, videos, microforms and other materials. It acts as the Mind anchor of Rydex Commons. ",
                     "more": "SUN 1:30PM - 10:00PM, MON 7:30AM - 11:00PM, FRI 7:30AM - 5:00PM, SAT 1:00PM - 5:00PM",
                     "urls": ["https://libguides.shc.edu/burkelibrary"]
                 },
